@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Books on Ayman A. Amin</title>
-    <link>/books/</link>
-    <description>Recent content in Books on Ayman A. Amin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/books/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Biography</title>
-      <link>/books/skills/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/books/skills/</guid>
-      <description>1 General Background2 My Education History2.1 PhD in Statistics [Applied in Information Technology, April 2010 - January 2014], Faculty of Science, Engineering, and Technology (FSET), Swinburne University of Technology, Australia.2.2 MSc in Statistics [with excellent degree, October 2006 - October 2009], Faculty of Economics and Political Science (FEPS), Cairo University, Egypt.2.3 Pre-MSc in Statistics [MSc Preparatory Year, September 2006 - July 2007], FEPS, Cairo University, Egypt.</description>
-    </item>
-    
-  </channel>
-</rss>
