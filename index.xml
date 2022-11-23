@@ -6,25 +6,16 @@
     <description>Recent content in Ayman A. Amin on Ayman A. Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
+    <copyright>&amp;copy; Ayman Ahmed Amin 2018 - 2020</copyright>
     <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Proposed Open-Circuit Faults Detection Using Control Charts Technique</title>
+      <title>Open-Circuit Faults Detection Using Control Charts Technique</title>
       <link>/publication/2019-opencircuitfaults/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/2019-opencircuitfaults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chaotic Analysis of Egyptian Stock Market with the Application to EGX 30 price Index</title>
-      <link>/publication/2019-nonlinearegymarket2/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2019-nonlinearegymarket2/</guid>
       <description></description>
     </item>
     
@@ -826,6 +817,35 @@ p {
 &lt;p&gt;&lt;center&gt;
 &lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
 &lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> الرقم القياسي لأسعار المساكن: تجارب دولية ومنهجية للتطبيق في مصر</title>
+      <link>/post/house-price-index/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/house-price-index/</guid>
+      <description>
+
+
+&lt;style&gt;
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+منذ عشر سنوات مع بداية 2008، كنت أفكر في بناء مؤشر لقياس أسعار المساكن والعقارات في مصر، ووقتها فعلاً قرأت في الموضوع وحاولت فيه لأكثر من سنة - مع مساعدة بعض الباحثين الأكثر مني خبرة - لأقتراح “رقم قياسي لأسعار المساكن” وهو عبارة عن “مؤشر مركب يقيس متوسط تغيرات أسعار مبيعات المساكن والعقارات المختلفة التي تم تداولها في السوق خلال فترة معينة، وهذه الفترة قد تكون شهر أو ربع سنة أو تزيد لسنة. كما أنه يعكس الخصائص المختلفة لهذه المساكن والعقارات والتي تحدد أسعارها في السوق”، ولكن الحقيقة لم أنجح في هذا لأنه عمل يحتاج إلي فريق متكامل متعدد الخبرات، ووقتها أنشغلت في الدراسات العليا وتركت الموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+وفعلاً مازلت أجد أن هذا الرقم القياسي لأسعار المساكن مهم جداً للبلد ككل، وخاصةً لكل من يهتم بالتخطيط العمراني أو سوق العقارات واستثماراتها وبشكل خاص في المدن الجديدة. أظن أن الباحثين المهتمين بالتخطيط العمراني وعلاقته بسوق العقارات واستثماراتها في مصر يمكن لهم أن يقوموا بهذا المشروع بالتعاون مع الحكومة ومن خلال التقديم علي دعم مالي من منظمات دولية ذات إهتمام بالموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+كل بحثي في موضوع الرقم القياسي لأسعار المساكن ومنهجية تطبيقه في مصر وضعته في تقرير متكامل، لعله يجد من يستفيد به ويبني عليه. بسبب مرور قرابة عشر سنوات علي فكرته فهو بحاجة للتحديث. يمكن تحميل التقرير من &lt;a href = &#34;https://www.researchgate.net/publication/322452580_House_Price_Index_International_Experiences_and_A_Methodology_for_Application_in_Egypt_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
+&lt;/p&gt;
 </description>
     </item>
     
