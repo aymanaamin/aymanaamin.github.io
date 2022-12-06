@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bio on Ayman A. Amin</title>
-    <link>/bio/</link>
-    <description>Recent content in Bio on Ayman A. Amin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ayman Ahmed Amin 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/bio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
+    <title>Biography | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/bio/</link>
+      <atom:link href="https://aymanamin.rbind.io/bio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Biography</title>
-      <link>/bio/skills/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/bio/skills/</guid>
-      <description>1 General Background2 My Education History2.1 PhD in Applied Statistics and Information Technology2.2 MSc in Statistics2.3 Pre-MSc in Statistics2.4 BSc in Statistics and Social Science Computing3 Awards3.1 SIG Travel Grant for the students/researchers, ACM3.2 Chancellors Research Scholarship (CRS, 2009), Swinburne University4 Academic and Research Experiences4.1 Associate Professor of Statistics, Menoufia University [October 2020 - To Date]4.</description>
-    </item>
+      <link>https://aymanamin.rbind.io/bio/</link>
+    </image>
     
   </channel>
 </rss>
